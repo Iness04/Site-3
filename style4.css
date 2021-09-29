@@ -1,0 +1,29 @@
+table{
+	border: 4px solid skyblue;
+	margin: auto;
+}
+td {
+	border: 2px solid cadetblue;
+	width: 400px;
+	text-align: center;
+}
+.france {
+	background-image: url(3388-1_1024x1024.jpg);
+	background-size: cover;
+	width: 400px;
+	height: 150px;
+	text-align: center;
+	font-size: 30px;
+}
+.titre{
+	font-size: 30px;
+	background-color: lightblue;
+}
+.usa{
+	background-image: url(usa-flag-717850.jpg);
+	background-size: cover;
+	width: 400px;
+	height: 200px;
+	text-align: center;
+	font-size: 30px;
+}

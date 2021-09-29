@@ -1,0 +1,42 @@
+code 
+{
+background-color: #73bcec;
+color: #fff;
+font-size: 2rem;
+font-family: verdana;
+border: 2px solid #060bfa;
+display: block; /*affichage qui prend toute a largeur*/
+margin: 0 0% 24px 0%; /*espace entre la bordure et le texte*/
+text-align: center ;
+
+}
+section 
+{width: 30%;
+height: 400px;
+border: 2px solid #060bfa ;
+float: left; /*lorsqu'on veut commencer par la gauche ou la droite et mettre sur la même ligne*/
+border-radius: 6px;
+margin: 12px 1.5% 24px 1.5%;
+}
+p {text-align: justify;}
+header
+{margin-top: 1em;
+
+	margin-bottom: 1em;}
+
+footer {
+
+clear: both; /*pour enlever les propriétés du float*/
+
+}
+.c1{
+	color: mediumorchid;
+
+
+}
+.textcolor{
+	color: steelblue;
+	background: palegreen;
+}
+.fond1
+{background: paleturquoise;}
